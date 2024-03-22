@@ -1,5 +1,5 @@
 {
-  "name": "tar24-simple-calculator",
+  "name": "bis24-simple-calculator",
   "version": "1.0.3",
   "description": "A simple calculator with Typescript, Node.js and Inquirer ",
   "main": "index.js",
@@ -8,7 +8,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Tarheem Azeem",
+  "author": "Bisma Azeem",
   "license": "MIT",
   "dependencies": {
     "inquirer": "^9.2.16"
