@@ -1,5 +1,5 @@
 {
-  "name": "bis24-simple-calculator",
+  "name": "bis23-simple-calculator",
   "version": "1.0.3",
   "description": "A simple calculator with Typescript, Node.js and Inquirer ",
   "main": "index.js",
